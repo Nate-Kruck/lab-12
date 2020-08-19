@@ -13,5 +13,10 @@ module.exports = [
     id: 3,
     todo: 'pick fruit',
     completed: true
+  },
+  {
+    id: 4,
+    todo: 'powerwash house',
+    completed: false,
   }
 ];
